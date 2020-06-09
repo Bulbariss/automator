@@ -10,11 +10,11 @@
 			<key>NSBackgroundSystemColorName</key>
 			<string>blackColor</string>
 			<key>NSIconName</key>
-			<string>NSActionTemplate</string>
+			<string>workflowCustomImage</string>
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Minify svgs in folder</string>
+				<string>Minify SVGs in folder</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
