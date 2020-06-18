@@ -7,12 +7,14 @@
 		<dict>
 			<key>NSBackgroundColorName</key>
 			<string>background</string>
+			<key>NSBackgroundSystemColorName</key>
+			<string>systemBlueColor</string>
 			<key>NSIconName</key>
 			<string>NSTouchBarAllMyFiles</string>
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Open in Nvim</string>
+				<string>Open in VS Code</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
